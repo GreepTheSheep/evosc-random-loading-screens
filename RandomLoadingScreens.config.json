@@ -1,0 +1,10 @@
+{
+    "enabled": true,
+    "script_setting": "script_settings.S_LoadingScreenImageUrl",
+    "images": [
+        "https://i.imgur.com/f7J7XxF.webp",
+        "https://i.imgur.com/7tidgLG.webp",
+        "https://i.imgur.com/xO4FYR4.webp",
+        "https://i.imgur.com/YSQrTMM.webp"
+    ]
+}
